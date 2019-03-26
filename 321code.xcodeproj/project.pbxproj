@@ -13,6 +13,7 @@
 		6D2D551921F73A75008A8178 /* _21code.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6D2D551721F73A75008A8178 /* _21code.xcdatamodeld */; };
 		6D2D551B21F73A76008A8178 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D2D551A21F73A76008A8178 /* Assets.xcassets */; };
 		6D2D551E21F73A76008A8178 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D2D551C21F73A76008A8178 /* LaunchScreen.storyboard */; };
+		6D2D552621F749C6008A8178 /* InitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2D552521F749C6008A8178 /* InitViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6D2D551A21F73A76008A8178 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D2D551D21F73A76008A8178 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D2D551F21F73A76008A8178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D2D552521F749C6008A8178 /* InitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				6D2D551021F73A75008A8178 /* AppDelegate.swift */,
 				6D2D551221F73A75008A8178 /* ViewController.swift */,
+				6D2D552521F749C6008A8178 /* InitViewController.swift */,
 				6D2D551421F73A75008A8178 /* Main.storyboard */,
 				6D2D551A21F73A76008A8178 /* Assets.xcassets */,
 				6D2D551C21F73A76008A8178 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				6D2D551321F73A75008A8178 /* ViewController.swift in Sources */,
 				6D2D551121F73A75008A8178 /* AppDelegate.swift in Sources */,
+				6D2D552621F749C6008A8178 /* InitViewController.swift in Sources */,
 				6D2D551921F73A75008A8178 /* _21code.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
